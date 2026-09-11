@@ -39,6 +39,9 @@ Non-negotiables:
 - **Status discipline.** Update `docs/product/roadmap.md` whenever a feature
   changes state. Ladder: planned → draft → specced → mocked → integrated → done;
   or cut.
+- **Attribution.** Commits and merges are always attributed to the human author.
+  Never add agent attributions, co-author trailers, or tool credits to commit
+  messages.
 
 ## Feature workflow
 
